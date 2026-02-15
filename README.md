@@ -465,7 +465,7 @@ Contributions are welcome! Areas for improvement:
 
 ## License
 
-MIT License - See LICENSE file for details
+MIT License - See [LICENSE](./LICENSE) file for details
 
 ## Acknowledgments
 
